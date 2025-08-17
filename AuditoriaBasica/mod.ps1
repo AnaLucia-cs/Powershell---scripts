@@ -1,4 +1,5 @@
-﻿New-ModuleManifest -Path '.\AuditoriaBasica.psd1'`
+#Script que creó el modulo AuditoriaBásica.psd1
+New-ModuleManifest -Path '.\AuditoriaBasica.psd1'`
     -RootModule 'AuditoriaBasica.psm1'`
     -ModuleVersion '1.0.0'`
     -Author 'Equio de Ciberseguridad'`
